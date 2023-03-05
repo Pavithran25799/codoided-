@@ -1,0 +1,62 @@
+import java.io.*;
+
+      //program 2
+Class Reverse String{
+   public static void main(String args[]){
+     String s =codoided;nstr=" ";
+	 char ch;
+	  for (int i=0;i<s.length();i++){
+	  ch=s.charAt(i);
+	   nstr=ch+nstr;
+	  }
+      System.out.println("Reversed word= " +nstr);
+}}
+     
+
+            //program 41 
+      Class swap {
+          public static void main(String args[]){
+             int a=1;
+             int b=2;
+        System.out.println("before swap =" +a ,+b);
+        a=a+b;
+		b=a-b;
+		a=a-b;
+		 System.out.println("before swap =" +a ,+b);
+        		
+	 }
+	 }
+	 
+	    / /program 11
+	   Class pattern {
+	      public Static void main(String args[]){
+             for (int i=1;i<6;i++){
+			     for (int j=0;i>j;i++){
+				  System.out.print(" *");
+	             }  			  
+   				   System.out.println();
+				  
+			}
+
+		}
+        }		
+				  
+				  SQL
+				  
+		   4. ALTER TABLE emp RENAME COLUMN salery to stipend;
+      
+           6. Distinct keyword is used in conjuction with the SELECT statement to eliminate all the duplicate records and fetching only unique records
+               SELECT DISTINCT column1,column2 FROM table name;
+           9. Arithmatic operaters = + ,-,*,/
+            comparison operater = <> ,!=,>,>=,<,<=,!>,!<,IN(),NOT,BETWEEN,IS NULL,IS NOT NULL
+            lOgical operater = AND,OR,NOT			
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
+				  
